@@ -8,8 +8,18 @@ This is my student repo for STATS 220 - *Data Technologies* at the [University o
 
 I am a BSc student majoring in:
 
-  1. Geographic Information Science 
-  2. Geography
+  1. Geographic Information Science 🌐
+  2. Geography 🏞️
+
+**A few of my interest areas:**
+
+  - Machine learning
+  - Computer vision
+  - Geovisualisation
+  - Cultural geography and heritage
+  - Environmental management
+
+Please enjoy a niche GIS meme from my curated collection!<br>
 
 <img src="https://github.com/brisingeld/stats220/blob/fede1aadb6200017b3a92e50c814bbd3ab3f8a7e/images/gis_data_wranglers.jpg" width="400">
 
