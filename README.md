@@ -4,9 +4,9 @@ This is my student repo for STATS 220 - *Data Technologies* at the [University o
 
 *I will be using it for course related projects and learning.*
 
-### About Me
+## About Me
 
-I am a BSc student majoring in:
+**I am a BSc student majoring in:**
 
   1. Geographic Information Science 🌐
   2. Geography 🏞️
