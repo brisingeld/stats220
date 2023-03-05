@@ -11,3 +11,4 @@ I am a BSc student majoring in:
   1. Geographic Information Science 
   2. Geography
 
+![/images/gis_data_wranglers.jpg]
